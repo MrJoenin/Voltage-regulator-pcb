@@ -23,27 +23,19 @@ Two protection diodes are included:
 
 Input and output capacitors are used to improve stability and transient response.
 
-Applications
+# Applications
+- Bench power supply
+- Robotics projects
+- Arduino and microcontroller power source
+- Analog and digital circuit testing
+- Educational use for learning linear regulators and PCB design
 
-Bench power supply
+# Design Tools
+- Schematic & PCB: KiCad
+- Regulator IC: LM338
+- PCB: Single-board linear regulator design
 
-Robotics projects
-
-Arduino and microcontroller power source
-
-Analog and digital circuit testing
-
-Educational use for learning linear regulators and PCB design
-
-Design Tools
-
-Schematic & PCB: KiCad
-
-Regulator IC: LM338
-
-PCB: Single-board linear regulator design
-
-Notes
+# Notes
 
 A heat sink is required when operating at high current or large input–output voltage differences.
 
