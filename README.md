@@ -72,27 +72,20 @@ DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC 
 
 # Future Improvements
 
-Reverse Polarity Protection
+- Reverse Polarity Protection
+  - Add a P-channel MOSFET–based reverse polarity protection circuit at the input to prevent damage if the power supply is connected backward.
+  - This would eliminate voltage drop compared to a series diode solution.
 
-Add a P-channel MOSFET–based reverse polarity protection circuit at the input to prevent damage if the power supply is connected backward.
+- Current Limiting / Protection
+  - Add external current sensing or foldback current limiting to better protect the load and regulator under fault conditions.
 
-This would eliminate voltage drop compared to a series diode solution.
+- Thermal Protection Enhancements
+  - Include PCB-mounted temperature sensing or thermal cutoff circuitry.
+  - Improve copper pours and thermal vias for better heat dissipation.
 
-Current Limiting / Protection
-
-Add external current sensing or foldback current limiting to better protect the load and regulator under fault conditions.
-
-Thermal Protection Enhancements
-
-Include PCB-mounted temperature sensing or thermal cutoff circuitry.
-
-Improve copper pours and thermal vias for better heat dissipation.
-
-Digital Voltage Monitoring
-
-Add a voltmeter or ADC interface to display or measure output voltage digitally.
-
-Useful for bench power supply applications.
+- Digital Voltage Monitoring
+  - Add a voltmeter or ADC interface to display or measure output voltage digitally.
+  - Useful for bench power supply applications.
 
 Improved PCB Layout
 
