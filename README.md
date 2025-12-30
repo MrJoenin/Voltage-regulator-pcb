@@ -4,17 +4,12 @@ This project is a high-current adjustable linear voltage regulator based on the 
 
 The LM338 is capable of supplying up to 5 A of output current, making this regulator suitable for powering microcontrollers, sensors, small motors, and other moderate-current loads.
 
-Features
-
-Adjustable output voltage from 1.2 V up to 32 V
-
-Input voltage range up to 35 V DC
-
-Output current up to 5 A (with proper heat sinking)
-
-Linear regulation for low noise and stable output
-
-Protection diodes to prevent regulator damage during:
+# Features
+- Adjustable output voltage from 1.2 V up to 32 V
+- Input voltage range up to 35 V DC
+- Output current up to 5 A (with proper heat sinking)
+- Linear regulation for low noise and stable output
+- Protection diodes to prevent regulator damage during:
 
 Output short circuits
 
