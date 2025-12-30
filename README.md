@@ -58,23 +58,17 @@ DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC 
       - Output capacitor discharge
     - This improves regulator reliability and longevity.
 
-LM338 Adjustable Regulator
+3. LM338 Adjustable Regulator
+    - The LM338 regulates the input voltage and provides up to 5 A of output current.
+    - Output voltage is set using a fixed resistor and a potentiometer connected to the ADJ pin.
 
-The LM338 regulates the input voltage and provides up to 5 A of output current.
+4. Output Filtering
+    - Output capacitors improve stability and transient response.
+    - Reduces voltage ripple and noise at the load.
 
-Output voltage is set using a fixed resistor and a potentiometer connected to the ADJ pin.
-
-Output Filtering
-
-Output capacitors improve stability and transient response.
-
-Reduces voltage ripple and noise at the load.
-
-Adjustable DC Output
-
-Regulated and adjustable output voltage available at the output screw terminal.
-
-Suitable for powering a wide range of electronic circuits and subsystems.
+5. Adjustable DC Output
+    - Regulated and adjustable output voltage available at the output screw terminal.
+    - Suitable for powering a wide range of electronic circuits and subsystems.
 
 # Future Improvements
 
