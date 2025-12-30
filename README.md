@@ -54,12 +54,9 @@ DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC 
 
 2. Protection Network
     - Protection diodes prevent reverse current flow through the LM338 during:
-
-3. Input short circuits
-
-Output capacitor discharge
-
-This improves regulator reliability and longevity.
+      - Input short circuits
+      - Output capacitor discharge
+    - This improves regulator reliability and longevity.
 
 LM338 Adjustable Regulator
 
@@ -79,7 +76,7 @@ Regulated and adjustable output voltage available at the output screw terminal.
 
 Suitable for powering a wide range of electronic circuits and subsystems.
 
-Future Improvements
+# Future Improvements
 
 Reverse Polarity Protection
 
