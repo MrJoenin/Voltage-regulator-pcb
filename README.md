@@ -10,14 +10,10 @@ The LM338 is capable of supplying up to 5 A of output current, making this regul
 - Output current up to 5 A (with proper heat sinking)
 - Linear regulation for low noise and stable output
 - Protection diodes to prevent regulator damage during:
-
-Output short circuits
-
-Large output capacitor discharge
-
-Screw terminals for easy power input and output
-
-Custom PCB designed using KiCad
+-- Output short circuits
+- - Large output capacitor discharge
+- Screw terminals for easy power input and output
+- Custom PCB designed using KiCad
 
 Circuit Overview
 
