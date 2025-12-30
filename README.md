@@ -37,8 +37,6 @@ Input and output capacitors are used to improve stability and transient response
 
 # Notes
 
-A heat sink is required when operating at high current or large input–output voltage differences.
-
-This is a linear regulator, so power dissipation increases with higher current and voltage drop.
-
-Reverse polarity protection can be added externally or in future PCB revisions.
+- A heat sink is required when operating at high current or large input–output voltage differences.
+- This is a linear regulator, so power dissipation increases with higher current and voltage drop.
+- Reverse polarity protection can be added externally or in future PCB revisions.
