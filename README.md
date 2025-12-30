@@ -48,13 +48,12 @@ Input and output capacitors are used to improve stability and transient response
 DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC Output
 
 ## Block Explanation
-
 1. DC Input
-  - - Power is supplied through a screw terminal connector.
-  - - Accepts a DC input voltage up to 35 V.
+    - Power is supplied through a screw terminal connector.
+    - Accepts a DC input voltage up to 35 V.
 
 2. Protection Network
-  - - Protection diodes prevent reverse current flow through the LM338 during:
+    - Protection diodes prevent reverse current flow through the LM338 during:
 
 3. Input short circuits
 
