@@ -50,12 +50,13 @@ DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC 
 ## Block Explanation
 
 1. DC Input
-  - Power is supplied through a screw terminal connector.
-  - Accepts a DC input voltage up to 35 V.
-  - Protection Network
-  - Protection diodes prevent reverse current flow through the LM338 during:
+  - - Power is supplied through a screw terminal connector.
+  - - Accepts a DC input voltage up to 35 V.
 
-2. Input short circuits
+2. Protection Network
+  - - Protection diodes prevent reverse current flow through the LM338 during:
+
+3. Input short circuits
 
 Output capacitor discharge
 
