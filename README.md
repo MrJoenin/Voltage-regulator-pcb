@@ -87,18 +87,13 @@ DC Input → Protection → LM338 Regulator → Output Filter → Adjustable DC 
   - Add a voltmeter or ADC interface to display or measure output voltage digitally.
   - Useful for bench power supply applications.
 
-Improved PCB Layout
+- Improved PCB Layout
+  - Widen high-current traces.
+  - Optimize ground planes and star grounding to reduce noise and voltage drop.
 
-Widen high-current traces.
+- Enclosure & User Interface
+  - Design a 3D-printable enclosure.
+  - Add labeling, test points, and optional power indicator LEDs.
 
-Optimize ground planes and star grounding to reduce noise and voltage drop.
-
-Enclosure & User Interface
-
-Design a 3D-printable enclosure.
-
-Add labeling, test points, and optional power indicator LEDs.
-
-Multiple Output Versions
-
-Expand the design to support multiple regulated outputs or selectable voltage rails.
+- Multiple Output Versions
+  - Expand the design to support multiple regulated outputs or selectable voltage rails.
