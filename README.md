@@ -15,15 +15,11 @@ The LM338 is capable of supplying up to 5 A of output current, making this regul
 - Screw terminals for easy power input and output
 - Custom PCB designed using KiCad
 
-Circuit Overview
-
+# Circuit Overview
 The output voltage is set using a resistor and potentiometer connected to the ADJ pin of the LM338. The relationship between the resistors determines the regulated output voltage.
-
 Two protection diodes are included:
-
-One diode between Vout and Vin to protect the LM338 if the input is shorted
-
-One diode between Vout and ADJ to prevent reverse current through the adjustment pin
+- One diode between Vout and Vin to protect the LM338 if the input is shorted
+- One diode between Vout and ADJ to prevent reverse current through the adjustment pin
 
 Input and output capacitors are used to improve stability and transient response.
 
