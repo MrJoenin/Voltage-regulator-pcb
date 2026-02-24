@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-12-30T14:30:37-0500 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                                                             PosX       PosY       Rot  Side
+C1        10uF/25V   C_Radial_D4.0mm_H7.0mm_P1.50mm                                  123.6000   -88.0000  180.0000  top
+C2        4.7uF/25V  C_Radial_D5.0mm_H11.0mm_P2.00mm                                 121.0000  -100.0000  -90.0000  top
+D1        1N4007     D_DO-41_SOD81_P10.16mm_Horizontal                               108.8000   -91.2000    0.0000  top
+D2        1N4007     D_DO-41_SOD81_P10.16mm_Horizontal                               131.5000  -103.2250   90.0000  top
+D3        LED        LED_1206_3216Metric                                             142.7000   -88.5000   90.0000  top
+D4        D_Zener    D_0805_2012Metric_Pad1.15x1.40mm_HandSolder                     117.4250   -86.7000    0.0000  top
+J1        Vin        TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   112.5250   -96.4450  -90.0000  top
+J2        Vout       TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   140.5000  -101.5350   90.0000  top
+R1        120R       R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                     126.2000  -102.8000    0.0000  top
+R2        120R       R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                     111.4000   -87.1000    0.0000  top
+R3        120R       R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                     139.0000   -88.5000   90.0000  top
+RV1       1k         Potentiometer_Bourns_3266W_Vertical                             133.5250   -86.7750    0.0000  top
+U1        LM338      SOT-223-3_TabPin2                                               125.0000   -94.5000    0.0000  top
+## End
